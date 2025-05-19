@@ -23,8 +23,8 @@ conda activate HumanPercVar
 ```
 
 ### Dataset
-- Images: `varMNIST/dataset_PNG`
-- Responses: `varMNIST/df_DigitRecog.csv`
+- Images: `variMNIST/dataset_PNG`
+- Responses: `variMNIST/df_DigitRecog.csv`
 
 
 ### Demo 1: Generating images to elicit human perceptual variability (Figure 2 in manuscript)

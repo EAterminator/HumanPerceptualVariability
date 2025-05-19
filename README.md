@@ -10,7 +10,7 @@
 
 
 </div>
-This is the github repository for the <em>ICML 2025</em> paper <em>Synthesizing Images on Perceptual Boundaries of ANNs for Uncovering and Manipulating Human Perceptual Variability</em>.
+This is the github code and data repository for the <em>ICML 2025</em> paper <em>Synthesizing Images on Perceptual Boundaries of ANNs for Uncovering and Manipulating Human Perceptual Variability</em>.
 
 ### Get started
 You can set up a conda environment with all dependencies by running the following commands:

@@ -1,5 +1,3 @@
-<div align="center">
-
 <h2 style="border-bottom: 1px solid lightgray;">Synthesizing Images on Perceptual Boundaries of ANNs for Uncovering and Manipulating Human Perceptual Variability</h2>
 
 <!-- Badges and Links Section -->
@@ -7,9 +5,11 @@
 
 </div>
 
-</div>
+[![arxiv](https://img.shields.io/badge/arXiv-2407.14949-red)](https://arxiv.org/abs/2505.03641)
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=brightgreen&up_message=online&url=https://eaterminator.github.io/BAM/)](https://eaterminator.github.io/BAM/)
 
-### Click [here](https://eaterminator.github.io/BAM/) for the project website
+
+</div>
 
 ### Get started
 You can set up a conda environment with all dependencies by running the following commands:

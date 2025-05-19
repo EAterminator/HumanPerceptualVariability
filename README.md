@@ -9,6 +9,8 @@
 
 </div>
 
+### Click [here](https://eaterminator.github.io/BAM/) for the project website
+
 ### Get started
 You can set up a conda environment with all dependencies by running the following commands:
 

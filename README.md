@@ -10,7 +10,9 @@
 
 
 </div>
-This is the github code and data repository for the <em>ICML 2025</em> paper <em>Synthesizing Images on Perceptual Boundaries of ANNs for Uncovering and Manipulating Human Perceptual Variability</em>. For convenience, model checkpoints and the variMNIST dataset can be found in <strong>Releases</strong>.
+This is the github code and data repository for the <em>ICML 2025</em> paper <em>Synthesizing Images on Perceptual Boundaries of ANNs for Uncovering and Manipulating Human Perceptual Variability</em>. For convenience, model checkpoints and the variMNIST dataset can be found in   <a href="https://github.com/EAterminator/HumanPerceptualVariability/releases" target="_blank">
+    Releases
+  </a>.
 
 ### Get started
 You can set up a conda environment with all dependencies by running the following commands:
